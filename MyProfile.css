@@ -14,7 +14,7 @@ li{
 }
 .first{
 	max-width: 600px;
-  max-height: 700px;
+  max-height: 725px;
   margin: auto;
 }
 div{
@@ -23,7 +23,7 @@ div{
 .flip-card {
   background-color: transparent;
   width: 600px;
-  height: 700px;
+  height: 725px;
   perspective: 1000px;
 }
 
