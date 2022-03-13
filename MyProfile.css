@@ -1,8 +1,10 @@
 body {
   background-image: url('background.jpg');
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: fixed;
   background-size: cover;
+  backface-visibility: inherit;
+  margin: 25px;
 }
 
 img{
